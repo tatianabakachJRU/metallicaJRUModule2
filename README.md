@@ -9,5 +9,6 @@
 - [Уровень_6 Лямбда-функции и Stream API.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_6)
 - [Уровень_7 Приведение типов и Switch expression.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_7)
 - [Уровень_8 Особенности вызова конструкторов. Блок static.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_8)
+- [Уровень_9 Устройство класса Object.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_9)
 
 ## Факультативы
