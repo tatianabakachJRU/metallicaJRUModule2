@@ -11,6 +11,7 @@
 - [Уровень_8 Особенности вызова конструкторов. Блок static.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_8)
 - [Уровень_9 Устройство класса Object.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_9)
 - [Уровень_11 Знакомство с потоками.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_11)
-- [Уровень_11 Знакомство с потоками(часть 2).](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_12)
+- [Уровень_12 Знакомство с потоками(часть 2).](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_12)
+- [Уровень_13 Executor.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_13)
 
 ## Факультативы
