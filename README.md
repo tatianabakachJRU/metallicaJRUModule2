@@ -13,5 +13,6 @@
 - [Уровень_11 Знакомство с потоками.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_11)
 - [Уровень_12 Знакомство с потоками(часть 2).](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_12)
 - [Уровень_13 Executor.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_13)
+- [Уровень_14 Thread Pool.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_14)
 
 ## Факультативы
