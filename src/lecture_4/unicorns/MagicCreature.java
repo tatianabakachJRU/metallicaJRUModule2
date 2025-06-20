@@ -1,8 +1,5 @@
 package lecture_4.unicorns;
 
-import lecture_2.abstractuion.Animal;
-import lecture_4.animals.CanFly;
-
 import java.io.Serializable;
 
 public abstract class MagicCreature implements Serializable {
