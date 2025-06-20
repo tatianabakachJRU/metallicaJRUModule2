@@ -16,3 +16,4 @@
 - [Уровень_14 Thread Pool.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/lecture_14)
 
 ## Факультативы
+- [Факультатив_1 Немного о java.util.concuren.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/elective_1)
