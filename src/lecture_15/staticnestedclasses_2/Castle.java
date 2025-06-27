@@ -3,14 +3,14 @@ package lecture_15.staticnestedclasses_2;
 public class Castle {
 
     static class Dragon{
-        static String dragonName = "Драко";
-        String fireBreathe = "Пылающий огонь";
+        private static String dragonName = "Драко";
+        private String fireBreathe = "Пылающий огонь";
 
-        static void roar(){
+        private static void roar(){
             System.out.println(dragonName + " грозно рычит");
         }
 
-        void breatheFire(){
+        private void breatheFire(){
             System.out.println(dragonName + " изрыгает " + fireBreathe);
         }
     }
