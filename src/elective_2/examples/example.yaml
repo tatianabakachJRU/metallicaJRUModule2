@@ -1,0 +1,11 @@
+name: Анна
+age: 28
+isStudent: false
+hobbies:
+  - чтение
+  - плавание
+  - программирование
+address:
+  city: Москва
+  zipCode: "123456"
+spouse: null

@@ -21,3 +21,5 @@
 
 ## Факультативы
 - [Факультатив_1 Немного о java.util.concuren.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/elective_1)
+- [Факультатив_2 Немного о JSON и YAML.](https://github.com/tatianabakachJRU/metallicaJRUModule2/tree/main/src/elective_2)
+

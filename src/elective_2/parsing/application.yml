@@ -1,0 +1,37 @@
+application:
+  name: "Мой первый Java-проект"
+  version: "1.0.0"
+  debug: true
+  maxConnections: 100
+  baseUrl: "https://api.myapp.local "
+
+database:
+  host: localhost
+  port: 5432
+  name: mydb
+  username: devuser
+  password: devpass123
+  sslEnabled: false
+  timeout: 30
+
+features:
+  - user-auth
+  - file-upload
+  - logging
+  - caching
+
+servers:
+  - name: primary
+    ip: 192.168.1.10
+    active: true
+  - name: backup
+    ip: 192.168.1.11
+    active: false
+
+metadata:
+  createdBy: dev-team
+  lastUpdated: "2025-07-22"
+  tags:
+    - demo
+    - tutorial
+    - java
